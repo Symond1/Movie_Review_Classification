@@ -87,5 +87,5 @@ streamlit run main.py
 ```
 
 This project uses the publicly available IMDB Movie Review Dataset (50,000 labeled reviews).
-https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews?
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
 
